@@ -1,0 +1,35 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 350px;
+    background-color: crimson;
+    padding-left: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: darkturquoise;
+}
+label{
+    font-size: 25px;
+}
+p{
+    font-weight: bold;
+    color: darkblue;
+}
+input{
+    height: 30px;
+    width: 500px;
+}
+textarea{
+    width: 400px;
+    height: 80px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: chartreuse;
+    color: hotpink;
+    border-radius: 20px;
+    font-size: medium;
+}
